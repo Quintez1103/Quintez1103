@@ -7,10 +7,10 @@
   (https://github.com/Quintez1103/osticket-prereqs)
   
   - [osTicket: Post-Installation Configuration]
-  (https://github.com/Quintez1103/post-install-config/blob/main/README.md)
+  (https://github.com/Quintez1103/post-install-config)
 
   - [osTicket: Ticket Lifecycle Examples]
-  (https://github.com/joshmadakorcc/ticket-lifecycle)
+    (https://github.com/Quintez1103/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
