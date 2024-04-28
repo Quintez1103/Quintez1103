@@ -1,4 +1,4 @@
-<h1>How's it going?, I'm Quintez Pearson, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>How's it going?, I'm Quintez Pearson, an <a href="https://linkedin.com/in/Josh">IT Cloud Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
