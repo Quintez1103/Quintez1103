@@ -17,7 +17,7 @@
   (https://github.com/Quintez1103/config-ad)
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]
-  (https://github.com/joshmadakorcc/azure-network-protols)
+  (https://github.com/Quintez1103/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
