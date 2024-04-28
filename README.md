@@ -7,7 +7,7 @@
   (https://github.com/Quintez1103/osticket-prereqs)
   
   - [osTicket: Post-Installation Configuration]
-  (https://github.com/joshmadakorcc/post-install-config)
+  (https://github.com/Quintez1103/post-install-config/blob/main/README.md)
 
   - [osTicket: Ticket Lifecycle Examples]
   (https://github.com/joshmadakorcc/ticket-lifecycle)
